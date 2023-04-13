@@ -1,0 +1,114 @@
+{
+  "id": "3955138",
+  "name": "app",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "151393",
+      "name": "手机_填充",
+      "font_class": "shoujitianchong",
+      "unicode": "e6b9",
+      "unicode_decimal": 59065
+    },
+    {
+      "icon_id": "397919",
+      "name": "游戏，游戏机",
+      "font_class": "youxiyouxiji",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "145459",
+      "name": "游戏",
+      "font_class": "youxi1",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "147464",
+      "name": "游戏_填充",
+      "font_class": "youxitianchong",
+      "unicode": "e6b5",
+      "unicode_decimal": 59061
+    },
+    {
+      "icon_id": "6775641",
+      "name": "爱心 _实心",
+      "font_class": "aixin_shixin",
+      "unicode": "eca1",
+      "unicode_decimal": 60577
+    },
+    {
+      "icon_id": "6775644",
+      "name": "爱心",
+      "font_class": "aixin",
+      "unicode": "eca2",
+      "unicode_decimal": 60578
+    },
+    {
+      "icon_id": "6570236",
+      "name": "消息",
+      "font_class": "xiaoxi1",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "5207131",
+      "name": "消息",
+      "font_class": "xiaoxi",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "11372703",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e8b9",
+      "unicode_decimal": 59577
+    },
+    {
+      "icon_id": "11372774",
+      "name": "首页",
+      "font_class": "shouye1",
+      "unicode": "e8c6",
+      "unicode_decimal": 59590
+    },
+    {
+      "icon_id": "4770043",
+      "name": "游戏",
+      "font_class": "youxi",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "34628341",
+      "name": "射击-copy",
+      "font_class": "sheji1-copy",
+      "unicode": "eca3",
+      "unicode_decimal": 60579
+    },
+    {
+      "icon_id": "11980172",
+      "name": "射击",
+      "font_class": "sheji",
+      "unicode": "e79c",
+      "unicode_decimal": 59292
+    },
+    {
+      "icon_id": "23403682",
+      "name": "射击",
+      "font_class": "sheji1",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "145710",
+      "name": "加星收藏_填充",
+      "font_class": "jiaxingshoucangtianchong",
+      "unicode": "e683",
+      "unicode_decimal": 59011
+    }
+  ]
+}

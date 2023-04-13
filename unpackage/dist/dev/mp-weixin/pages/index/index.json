@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "Fighter",
+  "usingComponents": {
+    "broadside": "/components/broadside/broadside",
+    "user": "/components/user/user",
+    "sorted-nav": "/components/sortedNav/sortedNav",
+    "carousel": "/components/carousel/carousel",
+    "bestgame": "/components/bestgame/bestgame"
+  }
+}

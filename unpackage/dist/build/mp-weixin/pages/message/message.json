@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "消息",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "user": "/components/user/user",
+    "search": "/components/search/search",
+    "message-item": "/components/messageItem/messageItem"
+  }
+}

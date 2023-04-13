@@ -1,0 +1,42 @@
+.msg-item.data-v-723458fa {
+  width: 650rpx;
+  height: 130rpx;
+  background-color: #fbfbfd;
+  margin-left: 50rpx;
+  margin-bottom: 16rpx;
+  border-radius: 20rpx;
+  padding-left: 10rpx;
+}
+.msg-item .msg-item-box.data-v-723458fa {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 10rpx;
+}
+.msg-item .msg-item-box .msg-item-box-le.data-v-723458fa {
+  flex: 20%;
+}
+.msg-item .msg-item-box .msg-item-box-le .mibl-img.data-v-723458fa {
+  width: 110rpx;
+  border-radius: 70rpx;
+}
+.msg-item .msg-item-box .msg-item-box-cen.data-v-723458fa {
+  flex: 60%;
+  display: flex;
+  flex-direction: column;
+  padding-left: 15rpx;
+  padding-top: 10rpx;
+  box-sizing: border-box;
+}
+.msg-item .msg-item-box .msg-item-box-cen .msg-item-box-cen-foot.data-v-723458fa {
+  margin-top: 14rpx;
+  color: #CCC;
+  font-size: 26rpx;
+  box-sizing: border-box;
+}
+.msg-item .msg-item-box .msg-item-box-ri.data-v-723458fa {
+  flex: 20%;
+  color: #CCC;
+  font-size: 26rpx;
+  margin-top: 10rpx;
+}
+

@@ -1,0 +1,53 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/live/live",
+    "pages/game/game",
+    "pages/message/message",
+    "pages/detail/detail",
+    "pages/BastGame/BastGame",
+    "pages/search/search",
+    "pages/login/login",
+    "pages/register/register"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "fighter",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#cccccc",
+    "selectedColor": "#E72949",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/shouye.png",
+        "selectedIconPath": "static/shouye-1.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/live/live",
+        "iconPath": "static/aixin.png",
+        "selectedIconPath": "static/aixin-1.png",
+        "text": "喜欢"
+      },
+      {
+        "pagePath": "pages/game/game",
+        "iconPath": "static/youxi.png",
+        "selectedIconPath": "static/youxi-1.png",
+        "text": "游戏"
+      },
+      {
+        "pagePath": "pages/message/message",
+        "iconPath": "static/xiaoxi.png",
+        "selectedIconPath": "static/shouye-1.png",
+        "text": "消息"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

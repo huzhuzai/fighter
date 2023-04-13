@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "喜欢",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "user": "/components/user/user"
+  }
+}

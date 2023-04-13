@@ -1,0 +1,202 @@
+.broadside-box.data-v-74c932b8 {
+  position: fixed;
+  width: 750rpx;
+  z-index: 99;
+  display: flex;
+}
+.broadside-box .broadside-box-box.data-v-74c932b8 {
+  width: 600rpx;
+  background-color: antiquewhite;
+  -webkit-animation: liuguang-data-v-74c932b8 2s infinite linear;
+          animation: liuguang-data-v-74c932b8 2s infinite linear;
+}
+.broadside-box .broadside-box-box .broadside-box-head.data-v-74c932b8 {
+  width: 240rpx;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  margin-left: 50%;
+  margin-top: 50rpx;
+}
+.broadside-box .broadside-box-box .broadside-box-head .broadside-box-head-img.data-v-74c932b8 {
+  width: 160rpx;
+  height: 160rpx;
+  border: 6rpx solid #aeb2ff;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-bottom: 15rpx;
+}
+.broadside-box .broadside-box-box .broadside-box-head .broadside-box-head-img image.data-v-74c932b8 {
+  width: 100%;
+  height: 100%;
+}
+.broadside-box .broadside-box-box .broadside-box-head .broadside-box-head-img .grayscale.data-v-74c932b8 {
+  -webkit-filter: grayscale(1);
+  /* Chrome, Safari, Opera */
+  filter: grayscale(1);
+}
+.broadside-box .broadside-box-box .broadside-box-head .broadside-box-head-user.data-v-74c932b8 {
+  display: flex;
+  flex-direction: column;
+}
+.broadside-box .broadside-box-box .broadside-box-head .broadside-box-head-user .uname.data-v-74c932b8 {
+  margin: 15rpx 0rpx;
+}
+.broadside-box .broadside-box-box .broadside-box-head .broadside-box-head-user .signature.data-v-74c932b8 {
+  font-size: 24rpx;
+}
+.broadside-box .broadside-box-box .separate.data-v-74c932b8 {
+  height: 4rpx;
+  width: 500rpx;
+  background-color: #e72949;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  margin: 20rpx 0rpx 0rpx 50%;
+}
+.broadside-box .broadside-box-box .broadside-box-con.data-v-74c932b8 {
+  padding: 50rpx 0rpx 0rpx 100rpx;
+}
+.broadside-box .broadside-box-box .broadside-box-con .broadside-box-con-li.data-v-74c932b8 {
+  margin-bottom: 15rpx;
+}
+.broadside-box .broadside-box-box .broadside-box-con .broadside-box-con-li text.data-v-74c932b8:nth-child(1) {
+  padding-right: 20rpx;
+}
+@-webkit-keyframes liuguang-data-v-74c932b8 {
+0% {
+    background: linear-gradient(to bottom right, #e2e2e2 0%, #fff 100%, #e2e2e2 200%, #fff 300%);
+}
+5% {
+    background: linear-gradient(to bottom right, #e2e2e2 -10%, #fff 90%, #e2e2e2 190%, #fff 290%);
+}
+10% {
+    background: linear-gradient(to bottom right, #e2e2e2 -20%, #fff 80%, #e2e2e2 180%, #fff 280%);
+}
+15% {
+    background: linear-gradient(to bottom right, #e2e2e2 -30%, #fff 70%, #e2e2e2 170%, #fff 270%);
+}
+20% {
+    background: linear-gradient(to bottom right, #e2e2e2 -40%, #fff 60%, #e2e2e2 160%, #fff 260%);
+}
+25% {
+    background: linear-gradient(to bottom right, #e2e2e2 -50%, #fff 50%, #e2e2e2 150%, #fff 250%);
+}
+30% {
+    background: linear-gradient(to bottom right, #e2e2e2 -60%, #fff 40%, #e2e2e2 140%, #fff 240%);
+}
+35% {
+    background: linear-gradient(to bottom right, #e2e2e2 -70%, #fff 30%, #e2e2e2 130%, #fff 230%);
+}
+40% {
+    background: linear-gradient(to bottom right, #e2e2e2 -80%, #fff 20%, #e2e2e2 120%, #fff 220%);
+}
+45% {
+    background: linear-gradient(to bottom right, #e2e2e2 -90%, #fff 10%, #e2e2e2 110%, #fff 210%);
+}
+50% {
+    background: linear-gradient(to bottom right, #e2e2e2 -100%, #fff 0%, #e2e2e2 100%, #fff 200%);
+}
+55% {
+    background: linear-gradient(to bottom right, #e2e2e2 -110%, #fff -10%, #e2e2e2 90%, #fff 190%);
+}
+60% {
+    background: linear-gradient(to bottom right, #e2e2e2 -120%, #fff -20%, #e2e2e2 80%, #fff 180%);
+}
+65% {
+    background: linear-gradient(to bottom right, #e2e2e2 -130%, #fff -30%, #e2e2e2 70%, #fff 170%);
+}
+70% {
+    background: linear-gradient(to bottom right, #e2e2e2 -140%, #fff -40%, #e2e2e2 60%, #fff 160%);
+}
+75% {
+    background: linear-gradient(to bottom right, #e2e2e2 -150%, #fff -50%, #e2e2e2 50%, #fff 150%);
+}
+80% {
+    background: linear-gradient(to bottom right, #e2e2e2 -160%, #fff -60%, #e2e2e2 40%, #fff 140%);
+}
+85% {
+    background: linear-gradient(to bottom right, #e2e2e2 -170%, #fff -70%, #e2e2e2 30%, #fff 130%);
+}
+90% {
+    background: linear-gradient(to bottom right, #e2e2e2 -180%, #fff -80%, #e2e2e2 20%, #fff 120%);
+}
+95% {
+    background: linear-gradient(to bottom right, #e2e2e2 -190%, #fff -90%, #e2e2e2 10%, #fff 110%);
+}
+100% {
+    background: linear-gradient(to bottom right, #e2e2e2 -200%, #fff -100%, #e2e2e2 0%, #fff 100%);
+}
+}
+@keyframes liuguang-data-v-74c932b8 {
+0% {
+    background: linear-gradient(to bottom right, #e2e2e2 0%, #fff 100%, #e2e2e2 200%, #fff 300%);
+}
+5% {
+    background: linear-gradient(to bottom right, #e2e2e2 -10%, #fff 90%, #e2e2e2 190%, #fff 290%);
+}
+10% {
+    background: linear-gradient(to bottom right, #e2e2e2 -20%, #fff 80%, #e2e2e2 180%, #fff 280%);
+}
+15% {
+    background: linear-gradient(to bottom right, #e2e2e2 -30%, #fff 70%, #e2e2e2 170%, #fff 270%);
+}
+20% {
+    background: linear-gradient(to bottom right, #e2e2e2 -40%, #fff 60%, #e2e2e2 160%, #fff 260%);
+}
+25% {
+    background: linear-gradient(to bottom right, #e2e2e2 -50%, #fff 50%, #e2e2e2 150%, #fff 250%);
+}
+30% {
+    background: linear-gradient(to bottom right, #e2e2e2 -60%, #fff 40%, #e2e2e2 140%, #fff 240%);
+}
+35% {
+    background: linear-gradient(to bottom right, #e2e2e2 -70%, #fff 30%, #e2e2e2 130%, #fff 230%);
+}
+40% {
+    background: linear-gradient(to bottom right, #e2e2e2 -80%, #fff 20%, #e2e2e2 120%, #fff 220%);
+}
+45% {
+    background: linear-gradient(to bottom right, #e2e2e2 -90%, #fff 10%, #e2e2e2 110%, #fff 210%);
+}
+50% {
+    background: linear-gradient(to bottom right, #e2e2e2 -100%, #fff 0%, #e2e2e2 100%, #fff 200%);
+}
+55% {
+    background: linear-gradient(to bottom right, #e2e2e2 -110%, #fff -10%, #e2e2e2 90%, #fff 190%);
+}
+60% {
+    background: linear-gradient(to bottom right, #e2e2e2 -120%, #fff -20%, #e2e2e2 80%, #fff 180%);
+}
+65% {
+    background: linear-gradient(to bottom right, #e2e2e2 -130%, #fff -30%, #e2e2e2 70%, #fff 170%);
+}
+70% {
+    background: linear-gradient(to bottom right, #e2e2e2 -140%, #fff -40%, #e2e2e2 60%, #fff 160%);
+}
+75% {
+    background: linear-gradient(to bottom right, #e2e2e2 -150%, #fff -50%, #e2e2e2 50%, #fff 150%);
+}
+80% {
+    background: linear-gradient(to bottom right, #e2e2e2 -160%, #fff -60%, #e2e2e2 40%, #fff 140%);
+}
+85% {
+    background: linear-gradient(to bottom right, #e2e2e2 -170%, #fff -70%, #e2e2e2 30%, #fff 130%);
+}
+90% {
+    background: linear-gradient(to bottom right, #e2e2e2 -180%, #fff -80%, #e2e2e2 20%, #fff 120%);
+}
+95% {
+    background: linear-gradient(to bottom right, #e2e2e2 -190%, #fff -90%, #e2e2e2 10%, #fff 110%);
+}
+100% {
+    background: linear-gradient(to bottom right, #e2e2e2 -200%, #fff -100%, #e2e2e2 0%, #fff 100%);
+}
+}
+.right.data-v-74c932b8 {
+  width: 150rpx;
+  background-color: #616161;
+  opacity: 0.5;
+}
+

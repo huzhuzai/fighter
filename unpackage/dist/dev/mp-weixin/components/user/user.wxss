@@ -1,0 +1,30 @@
+.heade.data-v-eb3d8538 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 50rpx;
+  width: 650rpx;
+  margin-left: 50rpx;
+}
+.heade .heade-le image.data-v-eb3d8538 {
+  width: 100rpx;
+  border-radius: 50rpx;
+}
+.heade .heade-le .grayscale.data-v-eb3d8538 {
+  -webkit-filter: grayscale(1);
+  /* Chrome, Safari, Opera */
+  filter: grayscale(1);
+}
+.heade .heade-name text.data-v-eb3d8538 {
+  font-size: 40rpx;
+}
+.heade .heade-ri .rediu.data-v-eb3d8538 {
+  width: 50rpx;
+  height: 50rpx;
+  background-color: #dcdcdc;
+  border-radius: 25rpx;
+  color: #FFF;
+  line-height: 50rpx;
+  text-align: center;
+}
+

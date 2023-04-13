@@ -1,0 +1,1 @@
+.box{position:relative}.box .recommend{margin-bottom:30rpx;height:50rpx;padding:0rpx 50rpx}.box .recommend .left{float:left;font-size:36rpx}.box .recommend .right{float:right;color:#aaa}.foot-null{height:1rpx;margin-top:150rpx}

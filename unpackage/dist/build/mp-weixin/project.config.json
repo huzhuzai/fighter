@@ -1,0 +1,30 @@
+{
+    "description": "项目配置文件。",
+    "packOptions": {
+        "ignore": [],
+        "include": []
+    },
+    "setting": {
+        "urlCheck": false,
+        "es6": false,
+        "postcss": false,
+        "minified": true,
+        "newFeature": true,
+        "bigPackageSizeSupport": true,
+        "babelSetting": {
+            "ignore": [],
+            "disablePlugins": [],
+            "outputPath": ""
+        },
+        "condition": false
+    },
+    "compileType": "miniprogram",
+    "libVersion": "2.30.4",
+    "appid": "wxff5ce68a52e28e21",
+    "projectname": "Fighte",
+    "condition": {},
+    "editorSetting": {
+        "tabIndent": "insertSpaces",
+        "tabSize": 4
+    }
+}

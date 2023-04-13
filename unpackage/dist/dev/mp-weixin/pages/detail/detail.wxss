@@ -1,0 +1,114 @@
+.detail.data-v-3e159eb4 {
+  position: relative;
+  padding: 0rpx 50rpx;
+}
+.detail .detail-headeimg.data-v-3e159eb4 {
+  margin: 40rpx 0rpx 30rpx 0rpx;
+}
+.detail .detail-headeimg image.data-v-3e159eb4 {
+  width: 100%;
+  height: 340rpx;
+  border-radius: 40rpx;
+}
+.detail .game-name.data-v-3e159eb4 {
+  display: flex;
+  flex-direction: column;
+}
+.detail .game-name .game-name-con.data-v-3e159eb4 {
+  font-weight: 500;
+  font-size: 40rpx;
+}
+.detail .game-name .game-detail.data-v-3e159eb4 {
+  font-size: 26rpx;
+  margin-top: 15rpx;
+}
+.detail .game-name .game-detail .game-detail-he.data-v-3e159eb4 {
+  color: #f5aa13;
+  padding-right: 6rpx;
+}
+.detail .game-name .game-detail .game-detail-foot.data-v-3e159eb4 {
+  color: #9d9d9d;
+}
+.detail .detail-live.data-v-3e159eb4 {
+  position: absolute;
+  top: 400rpx;
+  right: 110rpx;
+  width: 80rpx;
+  height: 80rpx;
+  background-color: rgba(251, 218, 224, 0.5);
+  border-radius: 40rpx;
+}
+.detail .detail-live .aixin.data-v-3e159eb4 {
+  color: #E72949;
+  font-size: 40rpx;
+  position: absolute;
+  top: 20rpx;
+  left: 20rpx;
+}
+.detail .message.data-v-3e159eb4 {
+  margin-top: 40rpx;
+  height: 100rpx;
+  background-color: #f4f4f4;
+  border-radius: 50rpx;
+  display: flex;
+  justify-content: space-around;
+  line-height: 100rpx;
+}
+.detail .message .message-chl.data-v-3e159eb4 {
+  padding: 0rpx 40rpx;
+  border-right: 6rpx solid #FFF;
+  text-align: center;
+}
+.detail .message .message-chl .iconred.data-v-3e159eb4 {
+  color: #E72949;
+  font-size: 36rpx;
+}
+.detail .message.data-v-3e159eb4 :nth-child(3) {
+  border-right: transparent;
+}
+.detail .message-letter.data-v-3e159eb4 {
+  margin-top: 30rpx;
+  font-size: 29rpx;
+  color: #bababa;
+  line-height: 40rpx;
+}
+.detail .scroll-max.data-v-3e159eb4 {
+  height: 320rpx;
+  position: relative;
+}
+.detail .scroll-max .scroll-vie.data-v-3e159eb4 {
+  position: absolute;
+  top: 40rpx;
+  height: 260rpx;
+  white-space: nowrap;
+}
+.detail .scroll-max .scroll-vie .scroll-vie-cen.data-v-3e159eb4 {
+  height: 100%;
+  width: 350rpx;
+  margin-right: 40rpx;
+  display: inline-block;
+}
+.detail .scroll-max .scroll-vie .scroll-vie-cen image.data-v-3e159eb4 {
+  width: 100%;
+  height: 100%;
+  border-radius: 30rpx;
+}
+.install.data-v-3e159eb4 {
+  position: fixed;
+  left: 50%;
+  bottom: 30rpx;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  width: 650rpx;
+  height: 120rpx;
+  background-color: #E72949;
+  font-size: 50rpx;
+  font-weight: 600;
+  color: #FFF;
+  text-align: center;
+  line-height: 120rpx;
+  border-radius: 60rpx;
+  margin-top: 40rpx;
+  box-shadow: 0rpx 4rpx 8rpx 4rpx #b3b3b3;
+}
+

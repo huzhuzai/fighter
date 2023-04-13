@@ -1,0 +1,1 @@
+.results{display:flex;justify-content:space-between;margin-bottom:30rpx;padding:0rpx 50rpx}.results .lef{font-size:30rpx}.results .rig{font-style:30rpx;color:#b5b5b5}.nullsearch{display:flex;flex-direction:column;justify-content:center;align-items:center}.nullsearch image{width:500rpx;height:400rpx}.nullsearch text{font-size:30rpx;color:#b5b5b5}
